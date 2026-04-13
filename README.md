@@ -8,7 +8,7 @@
 </div>
 <div align="center">
      <a href="/cs.html" target="_blank">
-    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire"/>
+    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue-000000?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire"/>
   </a>
 </div>
 
@@ -74,10 +74,10 @@
 
 ## 👁️ Badges
 
-[![Python](https://img.shields.io/badge/Python-6a0dad?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-6a0dad?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-6a0dad?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
-[![JSX](https://img.shields.io/badge/JSX-6a0dad?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
-[![Node.js](https://img.shields.io/badge/Node-6a0dad?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
-[![Git](https://img.shields.io/badge/Git-6a0dad?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-6a0dad?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
+[![JSX](https://img.shields.io/badge/JSX-000000?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
+[![Node.js](https://img.shields.io/badge/Node-000000?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
+[![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
