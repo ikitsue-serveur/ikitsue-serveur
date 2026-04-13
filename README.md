@@ -63,12 +63,12 @@
 
 ## 🌐 Liens
 
-[![LinkBio](https://img.shields.io/badge/Link.bio-FF5733?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
-[![Discord](https://img.shields.io/badge/Discord-FF5733?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
-[![Instagram](https://img.shields.io/badge/Instagram-FF5733?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
-[![TikTok](https://img.shields.io/badge/TikTok-FF5733?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
-[![X (Twitter)](https://img.shields.io/badge/X-FF5733?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
-[![Steam](https://img.shields.io/badge/Steam-FF5733?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
+[![LinkBio](https://img.shields.io/badge/Link.bio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
 
 ---
 
